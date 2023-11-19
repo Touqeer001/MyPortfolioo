@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7846cbb.css",
+    "main.js": "/static/js/main.5a0da2be.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/PROFILE.png": "/static/media/PROFILE.067ae532abe4d71d8f63.png",
+    "static/media/Home Page.png": "/static/media/Home Page.861b0adba7917eb5016b.png",
+    "static/media/Portfolio.png": "/static/media/Portfolio.6951a506dd32a29cc7c0.png",
+    "static/media/e-commerce pic.avif": "/static/media/e-commerce pic.09e5800767a6b1dd10f9.avif",
+    "static/media/Letter of Recommendation.png": "/static/media/Letter of Recommendation.35c7421840b108eb65e8.png",
+    "static/media/internship certificate.png": "/static/media/internship certificate.186a21179548807ad894.png",
+    "static/media/certificates.png": "/static/media/certificates.64a063ba94574a3c8514.png",
+    "static/media/Touqeer's_Softwere_Developer_Resume (1).pdf": "/static/media/Touqeer's_Softwere_Developer_Resume (1).16b6605b6bbc0fcd2a7e.pdf",
+    "static/media/My profile.jpeg": "/static/media/My profile.e36658cc29ecc173c2ea.jpeg",
+    "static/media/crud images.jpg": "/static/media/crud images.36755ac93c7f04182796.jpg",
+    "static/media/Blog pic.jpg": "/static/media/Blog pic.a08504f54dd4ecd69429.jpg",
+    "static/media/filesharing.png": "/static/media/filesharing.f5591c6bd7c6b3abba73.png",
+    "static/media/contact.avif": "/static/media/contact.31bd294ffe6fca6b258c.avif",
+    "index.html": "/index.html",
+    "main.f7846cbb.css.map": "/static/css/main.f7846cbb.css.map",
+    "main.5a0da2be.js.map": "/static/js/main.5a0da2be.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7846cbb.css",
+    "static/js/main.5a0da2be.js"
+  ]
+}
